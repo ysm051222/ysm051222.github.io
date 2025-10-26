@@ -4,11 +4,11 @@ Hi there! My name is Seungmin Yoo [sʰɯŋ.min.ju]
 I'm an undergraduate student majoring in [linguistics at Seoul National University](https://linguist.snu.ac.kr/en/). 
 
 I'm currently deeply interested in 
-- Syntax
-- Formal semantics (I love lambda calculus notation so much!)
-- Phonology
-- Corpus linguistics
-- Graphematics
+- [Syntax](https://en.wikipedia.org/wiki/Syntax)
+- [Formal semantics](https://en.wikipedia.org/wiki/Formal_semantics_(natural_language)) (I love [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) notation so much!)
+- [Phonology](https://en.wikipedia.org/wiki/Phonology)
+- [Corpus linguistics](https://en.wikipedia.org/wiki/Corpus_linguistics)
+- [Graphematics](https://en.wikipedia.org/wiki/Graphemics)
 
 As my understanding of linguistics is still developing, I'm currently exploring a wide range of topics within the field. 
 
