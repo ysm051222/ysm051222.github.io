@@ -3,10 +3,10 @@ Hi there! My name is Seungmin Yoo [sʰɯŋ.min.ju]
 
 I'm an undergraduate student majoring in [linguistics at Seoul National University](https://linguist.snu.ac.kr/en/). 
 
-I'm currently deeply interested in 
-- [Syntax](https://en.wikipedia.org/wiki/Syntax)
+## Interest
+- [Theoretical Syntax](https://en.wikipedia.org/wiki/Syntax)
 - [Formal semantics](https://en.wikipedia.org/wiki/Formal_semantics_(natural_language)) (I love [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) notation so much!)
-- [Phonology](https://en.wikipedia.org/wiki/Phonology)
+- [Laboratory Phonology](https://en.wikipedia.org/wiki/Laboratory_phonology)
 - [Corpus linguistics](https://en.wikipedia.org/wiki/Corpus_linguistics)
 - [Graphematics](https://en.wikipedia.org/wiki/Graphemics)
 
@@ -19,10 +19,9 @@ Basically, I'm a non-lingual.
 
 - Elementary level - English, Arabic, Japanese, Chinese
 
-I am currently studying Arabic, Manchu and Japanese! I think their scripts are super cool.
+I am currently studying Arabic, Manchu and Japanese. Their scripts are super cool!
 
 ## Hometown
-I am from Gongneung-dong, Nowon-gu, Seoul city, Republic of Korea.
-If you want to visit me, feel free to come here.
+I am from Gongneung-dong, Nowon-gu, Seoul city, Republic of Korea. A serene village located on the edge of Seoul.
 
 ![Gongneung](./스크린샷%202025-10-26%20215932.png)
