@@ -13,11 +13,11 @@ I'm currently deeply interested in
 As my understanding of linguistics is still developing, I'm currently exploring a wide range of topics within the field. 
 
 ## Language
-Basically, I'm a bye-lingual.
+Basically, I'm a non-lingual.
 
-- Intermediate level - Korean, English
+- Intermediate level - Korean
 
-- Elementary level - Arabic, Japanese, Chinese
+- Elementary level - English, Arabic, Japanese, Chinese
 
 I am currently studying Arabic, Manchu and Japanese! I think their scripts are super cool.
 
